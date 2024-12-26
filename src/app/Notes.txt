@@ -1,0 +1,25 @@
+1. Branding and Design:
+Overall aesthetic: Minimalistic, professional, sharp
+Specific colors: Think canva brand colors, with blues, pinks, and purples
+Fonts: I prefer Sans vs. Serif, I would like it to be modern and readable, and not a newspaper type Fonts. I like fonts like Roboto, but whatever is cool.
+Design guide: I want the home page to feel very fluid and connected, clean, seamless.  I want all content to be short and to the point, nobody wants to read a diatribe. 
+2. Content Sections:
+Sections should the homepage include:
+Hero Section (headline, subheadline, and a call-to-action).
+About Section (brief intro to Sugarcoded and what you do). I like to always say "we" vs. I, even though it's just me. We strive to make websites that fit the clients needs and wants, offering advice and collaborating on how to bring their brand's aesthetic to life on their page, make me sound like we can be as professional or as funky as they want to be. 
+Services Section (We offer all of the typical services a web designer would offer.  We aim to have everything from sleek, budget sites that customers can be taught to maintain themselves, or full service sites that we can build and maintain.  We offer sandbox sites built on squarespace or wix, all the way up to custom built sites/web apps.  Web hosting.  Consulting. Graphics Design. The whole shebang. ).
+Portfolio/Featured Projects (examples of past work: www.flavorlabmi.com - Metro-Detroits Premier Catering, www.theflavorlab.kitchen - The Flavor Lab Culinary Collective Commissary Kitchen, www.thebrowniegourmet.com - The best brownies anyone will ever have, www.happilyeveraltered.com - Alterations by Seamstress Sonsia Belfiore, tailoring extraordinaire).
+Testimonials (Fake it until we make it, make up a few).
+Contact Section (contact form needed).
+3. Call-to-Actions (CTAs):
+Actions should users take on the homepage: (e.g., "Get a Quote" - www.sugarcoded.design/contact, "View Portfolio" - www.sugarcoded.design/portfolio,  "Contact Us" - Alternate, use in place of get a quote when necessary, back to the same contact page.
+4. Images and Media:
+Logos, images, or media that should be featured on the homepage: Logos are in process.  I would like to have stock media on page for now.  I would like a sleek, abstract silent video background/gif that loops as the home screen/first image they see. It needs to be full screen with the header/intro text layed over it.
+Should I include placeholders for now? Yes
+5. Special Features:
+Any animations or interactivity? (e.g., smooth scrolling, hover effects, transitions) - Yes, I like when animations are barely noticeable, and pleasing to the eye.
+Specific components like a testimonial carousel or dynamic portfolio grid. - As long as it is done tastefully, yes.
+6. Navigation:
+What are the key links in your navigation bar? (e.g., Home, About, Services, Portfolio, Contact). - Keep links minimal, but necessary.  I would like the navigation bar to be seamless with the sections below it, I like when headers blend in with the sections and do not look like a solid block sitting at the top of the page
+7. Footer:
+What should go in the footer? (e.g., social links, copyright notice, quick links). - Keep it minimal.  

@@ -1,0 +1,52 @@
+/* src/globals.css */
+
+/* Import Tailwind Base Styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Global Styles */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-roboto), sans-serif;
+  background-color: #f5f5f5; /* Neutral light background */
+  color: #1e1e1e; /* Neutral dark text color */
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+a,
+button {
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+/* Debugging Utility */
+* {
+  box-sizing: border-box;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #007acc;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f5f5f5;
+}
